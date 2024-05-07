@@ -4,7 +4,9 @@ for Wakfu MMO
 ___
 ### Windows Install:
 - Put "appSkin" folder into your theme folder (replace files if necessary):
-- C:\Users\ **---USER_NAME---** \AppData\Roaming\zaap\gamesLogs\wakfu\themes\ **---THEME_NAME---** \theme\appSkin
+
+C:\Users\ **---USER_NAME---** \AppData\Roaming\zaap\gamesLogs\wakfu\themes\ **---THEME_NAME---** \theme\appSkin
+
 - Apply theme in interface settings
 - Restart the game
 ___
